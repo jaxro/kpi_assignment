@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const WEBHOOK_URL = 'https://hooks.slack.com/services/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';  // Replace with your Webhook URL
+const WEBHOOK_URL = 'https://hooks.slack.com/services/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';  // Replace with your Webhook URL
 
 const sendJsonToSlack = async () => {
   try {
