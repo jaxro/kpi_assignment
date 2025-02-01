@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2025-02-01",
+    "newVisitors": "5 (100% more/less than previous visitors)",
+    "newSignups": "5 (100.00% of visitors) (100% more/less than previous signups)",
+    "firstTimeDemoCalls": "3 (60.00% of signups) (100% more/less than previous demo calls)",
+    "totalDemoCalls": "3 (100% more/less than previous total demo calls)",
+    "subscriptionsCancelled": "0",
+    "newSubscriptions": "0 (0.00% of signups) (0.00% of signups that placed demo calls)",
+    "totalActiveSubscriptions": "3 (100% more/less than previous subscriptions)",
+    "totalCampaignCalls": "5 (100% more/less than previous campaign calls)",
+    "callsWithoutErrors": "4 (80.00% of campaign calls)",
+    "callsConnected": "4 (100.00% of calls placed without errors)",
+    "longDurationCalls": "3 (75.00% of calls connected)",
+    "avgAssistantResponseTime": "null"
+  }
+]
